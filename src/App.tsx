@@ -11,6 +11,7 @@ export default function App() {
             <Header />
 
                 <Blog/>
+
                 <Blog/>
                 <Blog/>
                 <Footer/>

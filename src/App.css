@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+.blog-list{
+  color: #c10ed5;
+  font-family: African;
+  color-interpolation-filters: unset;
+
+  font-size: larger;
+  font-synthesis-weight: initial;
+}
