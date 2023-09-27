@@ -6,11 +6,14 @@ import Header from './Header'
 
 export default function App() {
 
-  return (
-      <>
-        <Header />
-        <Blog />
-        <Footer />
-      </>
-  )
-}
+    return (
+        <>
+            <Header />
+
+                <Blog/>
+                <Blog/>
+                <Blog/>
+                <Footer/>
+            </>
+            )
+            }
