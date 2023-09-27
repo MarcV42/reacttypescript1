@@ -2,7 +2,7 @@ export default function Blog() {
 
     return (
         <div className="blog-list">
-            <img src="public/section-4587897_1280.jpg" height="auto" width="300px"/>
+            <img  src="public/section-4587897_1280.jpg" height="auto" width="300px"/>
             <article>
                 <h3>Making Stamps</h3>
                 <p>You can carve stamps out of linoleum. Using cutter and scalpel as tools.
